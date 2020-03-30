@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040596318369",
+    "firebase_url": "https://maps-69310.firebaseio.com",
+    "project_id": "maps-69310",
+    "storage_bucket": "maps-69310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040596318369:android:73eef2eec956e56608d8e0",
+        "android_client_info": {
+          "package_name": "jcom.google_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040596318369-n8nakus2rj9e6csh6nndld1u9sgirbv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dW0hC44pJk_vLku00cLJ97dyTvpDTtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040596318369-n8nakus2rj9e6csh6nndld1u9sgirbv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
